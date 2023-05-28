@@ -1,4 +1,5 @@
-# extra-programs
-
 ## Convert parquet file into h5 or numpy
-## Using dataset of Google Summer of Code 2023 - Quark-Glouns classification
+
+Updated Notebook: https://www.kaggle.com/code/shirshmall/convert-parquet-file-into-h5-or-numpy
+
+###### Using dataset of Google Summer of Code 2023 - Quark-Glouns classification
